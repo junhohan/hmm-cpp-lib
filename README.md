@@ -9,4 +9,4 @@ This library is licensed under the [Apache 2.0 license](http://www.apache.org/li
 
 ## Authors
 
-* **Junho Han** - *converted from original JAVA codes to C++* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Junho Han** - *converted from original JAVA codes to C++*
